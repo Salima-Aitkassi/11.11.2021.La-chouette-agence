@@ -362,7 +362,7 @@ a:hover {
     z-index: 2;
 }
 
-h1.contact-page, p.contact-page{ 
+h1.contact-page,p.contact-page{ 
     color: black!important;
     display: flex;
     justify-content: center;
