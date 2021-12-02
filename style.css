@@ -362,6 +362,12 @@ a:hover {
     z-index: 2;
 }
 
+h1.contact-page, p.contact-page{ 
+    color: black!important;
+    display: flex;
+    justify-content: center;
+}
+
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
@@ -889,7 +895,9 @@ h4 {
         padding-left: constant(safe-area-inset-left);
         padding-right: constant(safe-area-inset-right);
     }
+
 }
+
 
 @media (max-width: 767px) {
     .page-container {
