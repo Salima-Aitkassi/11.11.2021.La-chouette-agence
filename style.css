@@ -684,7 +684,15 @@ a {
 
 p {
     font-size: 11px;
+   
+
 }
+
+.col-sm-6 { display: flex;
+justify-content: center;
+
+}
+.adresse{  margin-top: 150px;}
 
 .tight-width-whitespace {
     max-width: 600px;
