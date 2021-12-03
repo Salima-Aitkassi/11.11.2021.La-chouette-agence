@@ -367,7 +367,7 @@ h1.contact-page,p.contact-page{
     display: flex;
     justify-content: center;
 }
-.adresse{ display: flex;
+p.adresse{ display: flex;
 justify-content: center;}
 
 @media (min-width: 768px) {
